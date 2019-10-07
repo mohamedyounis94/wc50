@@ -1,0 +1,40 @@
+body{
+
+  background: #3498db;
+
+}
+.empty{
+
+  margin: 10px 10px 10px 10px;
+  clear: both;
+
+}
+.mhead{
+
+  margin: 0 auto;
+  font-family:tahoma;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 35%;
+
+}
+#main{
+
+  width: 1200px;
+  height: 500px;
+  background-color: #ecf0f1;
+  margin: 0 auto;
+  padding: 7%;
+  border-radius: 2%;
+  margin-top: 60px;
+
+
+}
+table,tr,td,th{
+
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  margin:10px;
+
+}
